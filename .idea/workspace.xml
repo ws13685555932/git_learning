@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aa4c269-1897-42f4-beb4-9a1949d80946" name="Default Changelist" comment="idea" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+    <option name="BRANCH" value="feat1" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sandbox" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="squash1" />
+        <option name="rewordedMessage" value="squash12" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="d02a9835a7d41e62b934871ce34467cab142d9f4" />
+  </component>
+  <component name="ProjectId" id="298QmFlo63F7CrlvOAxNOn02HFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aa4c269-1897-42f4-beb4-9a1949d80946" name="Default Changelist" comment="" />
+      <created>1652492391038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652492391038</updated>
+    </task>
+    <task id="LOCAL-00001" summary="sandbox-commit1">
+      <created>1652498859988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652498859988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sandbox-commit2">
+      <created>1652498885241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652498885241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sandbox">
+      <created>1652498945365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652498945365</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rebase sandbox2">
+      <created>1652499073484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652499073484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="squash1">
+      <created>1652499847559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652499847559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="squash2">
+      <created>1652499860282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652499860282</updated>
+    </task>
+    <task id="LOCAL-00007" summary="idea">
+      <created>1652500126411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652500126411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="sandbox" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sandbox-commit1" />
+    <MESSAGE value="sandbox-commit2" />
+    <MESSAGE value="sandbox" />
+    <MESSAGE value="rebase sandbox2" />
+    <MESSAGE value="squash1" />
+    <MESSAGE value="squash2" />
+    <MESSAGE value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="810" y="457" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1652499878546">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="810" y="457" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499878546" />
+    <state x="227" y="113" key="MergeDialog" timestamp="1652499047606">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="227" y="113" key="MergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499047606" />
+    <state x="499" y="276" key="MultipleFileMergeDialog" timestamp="1652499047658">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="499" y="276" key="MultipleFileMergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499047658" />
+    <state x="669" y="211" key="RollbackChangesDialog" timestamp="1652500145584">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="669" y="211" key="RollbackChangesDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652500145584" />
+    <state x="396" y="246" key="Vcs.Push.Dialog.v2" timestamp="1652500132157">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="396" y="246" key="Vcs.Push.Dialog.v2/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652500132157" />
+  </component>
+</project>
