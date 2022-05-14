@@ -23,24 +23,22 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aa4c269-1897-42f4-beb4-9a1949d80946" name="Default Changelist" comment="idea" />
+    <list default="true" id="0aa4c269-1897-42f4-beb4-9a1949d80946" name="Default Changelist" comment="sandbox-com2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Pull.Settings">
-    <option name="OPTIONS">
-      <set>
-        <option value="REBASE" />
-      </set>
-    </option>
-    <option name="BRANCH" value="feat1" />
+    <option name="BRANCH" value="feat" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -130,7 +128,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652500126411</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="idea">
+      <created>1652504542897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504542897</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat-com1">
+      <created>1652504616536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504616536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sandbox-com1">
+      <created>1652504650843</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504650843</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sandbox-com2">
+      <created>1652504664830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652504664830</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,7 +170,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="develop" />
                       </list>
                     </value>
                   </entry>
@@ -170,6 +196,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sandbox-commit1" />
@@ -179,28 +206,35 @@
     <MESSAGE value="squash1" />
     <MESSAGE value="squash2" />
     <MESSAGE value="idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+    <MESSAGE value="feat-com1" />
+    <MESSAGE value="sandbox-com1" />
+    <MESSAGE value="sandbox-com2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sandbox-com2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="180" y="120" key="DiffContextDialog" timestamp="1652505025912">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="180" y="120" key="DiffContextDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652505025912" />
     <state x="810" y="457" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1652499878546">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="810" y="457" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499878546" />
-    <state x="227" y="113" key="MergeDialog" timestamp="1652499047606">
+    <state x="227" y="113" key="MergeDialog" timestamp="1652504748594">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="227" y="113" key="MergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499047606" />
-    <state x="499" y="276" key="MultipleFileMergeDialog" timestamp="1652499047658">
+    <state x="227" y="113" key="MergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652504748594" />
+    <state x="499" y="276" key="MultipleFileMergeDialog" timestamp="1652504748651">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="499" y="276" key="MultipleFileMergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652499047658" />
+    <state x="499" y="276" key="MultipleFileMergeDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652504748651" />
     <state x="669" y="211" key="RollbackChangesDialog" timestamp="1652500145584">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="669" y="211" key="RollbackChangesDialog/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652500145584" />
-    <state x="396" y="246" key="Vcs.Push.Dialog.v2" timestamp="1652500132157">
+    <state x="396" y="246" key="Vcs.Push.Dialog.v2" timestamp="1652505027031">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="396" y="246" key="Vcs.Push.Dialog.v2/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652500132157" />
+    <state x="396" y="246" key="Vcs.Push.Dialog.v2/0.25.1792.1095/-439.-1440.2560.1440@0.25.1792.1095" timestamp="1652505027031" />
   </component>
 </project>
